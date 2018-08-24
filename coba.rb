@@ -1,3 +1,3 @@
-presiden_saatini = "Jokowi"
-puts "Tahun 2018, Presidennya yaitu #{presiden_saatini}."
-
+nomor1 = 2
+nomor2 = 3
+puts "nomor1+nomor2"
