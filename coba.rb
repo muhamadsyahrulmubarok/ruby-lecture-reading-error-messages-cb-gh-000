@@ -1,6 +1,4 @@
-firts_number = 4
-second_number = 3
-
-sum = firts_number ** second_number
+presiden_saatini = "Jokowi"
+puts "Tahun 2018, Presidennya yaitu #{presiden_saatini}"
 
 puts sum
